@@ -20,7 +20,7 @@ Sarasa Gothic 是一个近乎完美的解决方法，除了大写字母 `G` ！S
 
 进入[最新发布版本](https://github.com/edgeworthlauzero/sarasa-ji-gothic/releases/latest)页面，根据需要下载对应系列的字体包，下载后解压并安装。
 
-Sarasa Ji Gothic 仅提供 `ttf` 格式的两种风格的非等宽字型，如需 `ttc` 格式请自行构建，如需等宽字型请直接使用原项目（[Sarasa Gothic](https://github.com/be5invis/Sarasa-Gothic/)）。
+Sarasa Ji Gothic 仅提供 `ttf` 和 `woff2` 两种格式的两种风格的非等宽字型，如需 `ttc` 格式请自行构建，如需等宽字型请直接使用原项目（[Sarasa Gothic](https://github.com/be5invis/Sarasa-Gothic/)）。
 
 ### 字型风格
 
